@@ -1,2 +1,2 @@
 # abaqus-inp-submit
-submit abaqus inp job with gui
+submit abaqus job with PYQT5 by droping inp files into QLineEdit box
